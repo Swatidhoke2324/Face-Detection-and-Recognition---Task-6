@@ -8,5 +8,6 @@ Task-6 Description 📄
 👉 Second, it sends a WhatsApp message to your friend; it can be anything.  
 
 📌 When it recognizes a second face, it can be your friend or family member's face. 
+
 👉 Create EC2 instance in the AWS using CLI.  
 👉 Create 5 GB EBS volume and attach it to the instance. 
